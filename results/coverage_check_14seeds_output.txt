@@ -1,0 +1,14 @@
+seed  0 t= 237s path= 55.1 stuck=0 missed=['east end'] hazards=2 fell=False
+seed  1 t= 479s path=110.0 stuck=0 missed=- hazards=2 fell=False
+seed  2 t= 247s path= 56.0 stuck=0 missed=- hazards=2 fell=False
+seed  3 t= 208s path= 46.6 stuck=0 missed=['R1 room'] hazards=1 fell=False
+seed  4 t= 249s path= 57.8 stuck=0 missed=- hazards=3 fell=False
+seed  5 t= 247s path= 57.8 stuck=0 missed=- hazards=2 fell=False
+seed  6 t= 246s path= 57.6 stuck=0 missed=- hazards=2 fell=False
+seed  7 t= 238s path= 53.6 stuck=0 missed=['east end'] hazards=2 fell=False
+seed  8 t= 246s path= 57.7 stuck=0 missed=- hazards=2 fell=False
+seed  9 t= 349s path= 81.3 stuck=0 missed=- hazards=2 fell=False
+seed 10 t= 213s path= 48.4 stuck=1 missed=['R3 room'] hazards=2 fell=False
+seed 11 t= 247s path= 57.7 stuck=0 missed=- hazards=2 fell=False
+seed 12 t= 247s path= 57.7 stuck=0 missed=- hazards=2 fell=False
+seed 13 t= 247s path= 57.6 stuck=0 missed=- hazards=2 fell=False

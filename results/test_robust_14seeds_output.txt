@@ -1,0 +1,16 @@
+seed  0: returned   t=  237s path= 55.1m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  1: returned   t=  479s path=110.0m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  2: returned   t=  247s path= 56.0m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  3: returned   t=  208s path= 46.6m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION', 'WAYPOINT'] reason=exploration complete OK
+seed  4: returned   t=  249s path= 57.8m beacons=6 types=['HAZARD', 'HOLE', 'JUNCTION', 'WAYPOINT'] reason=exploration complete OK
+seed  5: returned   t=  247s path= 57.8m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  6: returned   t=  246s path= 57.6m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  7: returned   t=  238s path= 53.6m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  8: returned   t=  246s path= 57.7m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed  9: returned   t=  349s path= 81.3m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed 10: returned   t=  213s path= 48.4m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed 11: returned   t=  247s path= 57.7m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed 12: returned   t=  247s path= 57.7m beacons=5 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+seed 13: returned   t=  247s path= 57.6m beacons=6 types=['HAZARD', 'HOLE', 'JUNCTION'] reason=exploration complete OK
+
+14/14 clean runs

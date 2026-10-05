@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "type": "JUNCTION",
+  "dir_deg": 359,
+  "dist_m": 3.5,
+  "t": 1790000007,
+  "ver": 1,
+  "exits": 7,
+  "true_x": 2.15,
+  "true_y": 3.88
+ },
+ {
+  "id": 2,
+  "type": "HAZARD",
+  "dir_deg": 321,
+  "dist_m": 0.9,
+  "t": 1790000024,
+  "ver": 1,
+  "true_x": 4.38,
+  "true_y": 1.76
+ },
+ {
+  "id": 3,
+  "type": "JUNCTION",
+  "dir_deg": 2,
+  "dist_m": 3.5,
+  "t": 1790000075,
+  "ver": 1,
+  "exits": 7,
+  "true_x": 8.23,
+  "true_y": 3.9
+ },
+ {
+  "id": 4,
+  "type": "HAZARD",
+  "dir_deg": 323,
+  "dist_m": 1.1,
+  "t": 1790000096,
+  "ver": 1,
+  "true_x": 11.34,
+  "true_y": 1.77
+ },
+ {
+  "id": 5,
+  "type": "HOLE",
+  "dir_deg": 81,
+  "dist_m": 0.3,
+  "t": 1790000155,
+  "ver": 1,
+  "true_x": 8.52,
+  "true_y": 5.72
+ }
+]

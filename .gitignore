@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local simulation output folders created by:  python run_demo.py --out out
+# (the labelled results kept on purpose are in results/ and are NOT ignored)
+simulation/writer/out/
+simulation/writer/out_*/
+out/
+out_*/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

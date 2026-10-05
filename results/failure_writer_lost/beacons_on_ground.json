@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "type": "JUNCTION",
+  "dir_deg": 358,
+  "dist_m": 3.5,
+  "t": 1790000007,
+  "ver": 1,
+  "exits": 7,
+  "true_x": 2.15,
+  "true_y": 3.88
+ },
+ {
+  "id": 2,
+  "type": "HAZARD",
+  "dir_deg": 298,
+  "dist_m": 1.6,
+  "t": 1790000021,
+  "ver": 1,
+  "true_x": 4.5,
+  "true_y": 2.6
+ },
+ {
+  "id": 3,
+  "type": "JUNCTION",
+  "dir_deg": 0,
+  "dist_m": 3.5,
+  "t": 1790000075,
+  "ver": 1,
+  "exits": 7,
+  "true_x": 8.2,
+  "true_y": 3.9
+ },
+ {
+  "id": 4,
+  "type": "HAZARD",
+  "dir_deg": 305,
+  "dist_m": 1.6,
+  "t": 1790000094,
+  "ver": 1,
+  "true_x": 11.45,
+  "true_y": 2.4
+ }
+]
